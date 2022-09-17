@@ -12,6 +12,12 @@ https://www.youtube.com/watch?v=qCpXsTa6xEY
 
 <br>
 
+## 📆 프로젝트 기간
+
+2022년 9월 9일 ~ 2022년 9월 15일 (총 7일)
+
+<br>
+
 ## 💻 &nbsp; <b>github</b> &nbsp; 💻
 
 | [Front-end](https://github.com/k-gardn/osulloc_FE) |

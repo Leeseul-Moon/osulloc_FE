@@ -7,9 +7,8 @@
 
 ## <b>오설록 사이트 클론코딩</b>
 
-https://osulloc.vercel.app
-
-<br>
+https://osulloc.vercel.app <br>
+https://www.youtube.com/watch?v=qCpXsTa6xEY
 
 <br>
 

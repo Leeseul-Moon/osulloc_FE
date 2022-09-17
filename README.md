@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <br>
 
 # <b>OSULLOC</b>
@@ -7,8 +7,9 @@
 
 ## <b>오설록 사이트 클론코딩</b>
 
-https://osulloc.vercel.app <br>
-https://www.youtube.com/watch?v=qCpXsTa6xEY
+▸ [배포 링크](https://osulloc.vercel.app) <br>
+
+▸ [시연 영상](https://www.youtube.com/watch?v=qCpXsTa6xEY)
 
 <br>
 
@@ -18,16 +19,52 @@ https://www.youtube.com/watch?v=qCpXsTa6xEY
 
 <br>
 
-## 💻 &nbsp; <b>github</b> &nbsp; 💻
+## 💻 &nbsp; <b>github</b> &nbsp; 
 
 | [Front-end](https://github.com/k-gardn/osulloc_FE) |
 [Back-end](https://github.com/Jeeyeonn/innovation_clone_2_BE) |
 <br>
-<br>
 
 <br>
 
-## 👩🏻‍💻 <b>Contributors</b> 🧑🏻‍💻
+## 📚 구현 기능
+<div align="left">
+<br>
+    
+1. **메인페이지**
+    - [x]  베스트 상품 → 장바구니 담은 수 상위 10개
+    
+    <br>
+    
+2. **로그인/회원가입**
+    - [x]  이메일, 비밀번호(비밀번호 확인), 이름, 구독 여부
+    - [x]  카카오톡 소셜 로그인
+    
+    <br>
+    
+3. **구독하기**
+    - [x]  오설록을 구독한 유저에게 정해진 날짜에 메일 보내는 기능
+    
+    <br>
+    
+4. **장바구니**
+    - [x]  로그인 시 담아주기
+    - [x]  모든 페이지에서 로그인 한 정보가 있으면 그 회원에 맞는 장바구니 수 보여주기
+    - [x]  장바구니에 이미 담겨진 물품이면 알럿 띄우기
+    - [x]  장바구니 페이지 안에서 물품 전체 삭제, 일부 삭제 기능
+    - [x]  장바구니 페이지 안에서 수량 변경 가능
+    
+    <br>
+    
+5. **제품 상세페이지**
+    - [x]  제품 이미지, 가격, 수량 선택, 장바구니
+<br>
+
+</div>
+
+<br>
+
+## 👩🏻‍💻 <b>Contributors</b>
 
 <br>
 
@@ -40,16 +77,16 @@ https://www.youtube.com/watch?v=qCpXsTa6xEY
 
 <br>
 
-## ⚙️ <b>Tech Stack</b> 🛠
+## ⚙️ <b>Tech Stack</b> 
 
 <br>
 
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Java-green?style=flat-square&logo=java&logoColor=white"/> <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Spring-green?style=flat-square&logo=Spring&logoColor=white"/> <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white"/> <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/React-blue?style=flat-square&logo=React&logoColor=white"/> <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/Redux-purple?style=flat-square&logo=Redux&logoColor=white"/> <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazon&logoColor=white"/>
 <img style="margin:5px; border: 2px solid white; border-radius: 20px" src="https://img.shields.io/badge/vercel-black?style=flat-square&logo=vercel&logoColor=white"/> <br /><br />
 
-## 🛼 <b>How to run</b> ⛸ </div>
+## 🛼 <b>How to run</b>  </div>
 
-## Back-End
+### [Back-End]
 
 #### clone repository
 
@@ -75,7 +112,7 @@ $ ./build gradle
 $ java -jar build/libs/InnovationCloneBeApplicationTests.jar
 ```
 
-## Front-end
+### [Front-end]
 
 #### clone repository
 
@@ -102,11 +139,14 @@ $ yarn start
 ```
 
 <br>
-<div align="center">
+<div align="left">
 
-## 📁 Directory Structure 📂 </div>
+## 📁 Directory Structure  </div>
 
-#### Front-end
+<div align="left">
+<details>
+<summary> Front-end </summary>
+<div markdown="1">
 
 ```
 📦src
@@ -185,7 +225,12 @@ $ yarn start
  ┗ 📜index.js
 ```
 
-#### Back-end
+</div>
+</details>
+
+<details>
+<summary> Back-end </summary>
+<div markdown="1">
 
 ```
 📦src
@@ -280,11 +325,16 @@ $ yarn start
  ┃ ┃ ┃ ┃ ┃ ┗ 📜InnovationCloneBeApplicationTests.java
 ```
 
-<div align="center">
+</div>
+</details>
 
 <br>
 
-## 💾 <b>Database Schema</b> 💿
+<div align="left">
+
+<br>
+
+## 💾 <b>Database Schema</b> 
 
 <br>
 

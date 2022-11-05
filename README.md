@@ -330,12 +330,3 @@ $ yarn start
 
 <br>
 
-<div align="left">
-
-<br>
-
-## 💾 <b>Database Schema</b> 
-
-<br>
-
-![image](<https://postimagestorage.s3.amazonaws.com/innovation_clone+(1).png>) </div>
